@@ -3,6 +3,7 @@
 
 **MoviesBrowser** is a responsive web application built using **JavaScript** and **React**, which allows users to browse, search, and explore detailed information about movies and actors. The application integrates with the **TMDB API** to fetch real-time data, including posters, genres, ratings, and actor biographies.
 
+
 ## 🚀 Demo
 
 Check out the live demo here: [Movies Browser](https://am97veb.github.io/movies-browser/)
