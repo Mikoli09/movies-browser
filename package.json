@@ -2,7 +2,7 @@
     "name": "movies-browser",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://am97veb.github.io/movies-browser/",
+    "homepage": "https://mikoli09.github.io/movies-browser/",
     "dependencies": {
         "@reduxjs/toolkit": "^2.6.1",
         "@testing-library/dom": "^10.4.0",
