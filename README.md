@@ -6,19 +6,15 @@
 This project was forked from an original repository worked on by multiple contributors.  
 It is now my personal copy, and I am the sole maintainer working on it.
 
+Original repository: [github.com/am97veb/movies-browser](https://github.com/am97veb/movies-browser)
+
 ---
 
 *The project's history and previous commits have been preserved. 
 
 ## 🚀 Demo
 
-Check out the live demo here: [Movies Browser](https://am97veb.github.io/movies-browser/)
-
-## 👥 Team Members
-
-- 👤 [Adrian Markefka](https://github.com/am97veb)
-- 👤 [Marcin Osojca](https://github.com/Mikoli09)
-- 👤 [Joanna Górniak](https://github.com/Joanna2307)  
+Check out the live demo here: [Movies Browser](https://mikoli09.github.io/movies-browser/)
 
 ## 🧠 Project Management & Workflow
 
@@ -35,7 +31,7 @@ The project was developed collaboratively using an organized and agile approach:
 
 ## 🔗 Repository
 
-GitHub: [https://github.com/am97veb/movies-browser](https://github.com/am97veb/movies-browser)
+GitHub: [https://github.com/Mikoli09/movies-browser](https://github.com/Mikoli09/movies-browser)
 
 
 
