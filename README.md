@@ -104,7 +104,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    
-   git clone https://github.com/am97veb/movies-browser.git
+   git clone https://github.com/Mikoli09/movies-browser.git
 
 2. Navigate to the project folder
    
